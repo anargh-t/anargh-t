@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anargh T
 - 👀 I’m a Data Enthusiast
-- 🌱 I’m currently learning Data Science 
+- 🌱 I’m currently learning Data Science .
 - 📫 How to reach me anarght@gmail.com
 
 <!---

@@ -1,19 +1,14 @@
-
-
-<!---
-anargh-t/anargh-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Anargh T</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 🌱 I’m currently learning **Data Science**
-
 - 📫 How to reach me **anarght@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/19qtYCkhtYmNmRbF5MwEa-ZqDf5BXYw59](https://drive.google.com/drive/u/0/folders/19qtYCkhtYmNmRbF5MwEa-ZqDf5BXYw59)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anargh-t-46894b214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anargh-t-46894b214/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/anarght" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/anarght" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

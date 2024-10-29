@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anargh T</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Science Aspirant</h3>
 
 - 📫 How to reach me **anarght@gmail.com**
 

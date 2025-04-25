@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anargh T</h1>
 <h3 align="center">A passionate Data Science Aspirant</h3>
 
-- 📫 How to reach me **anarght@gmail.com**
+- 📫 How to reach me **anargh.cs24@duk.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/19qtYCkhtYmNmRbF5MwEa-ZqDf5BXYw59](https://drive.google.com/drive/u/0/folders/19qtYCkhtYmNmRbF5MwEa-ZqDf5BXYw59)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

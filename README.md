@@ -68,9 +68,8 @@
 ---
 
 ### 🚀 Current Focus
-- Advancing knowledge in **deep learning**, **MLOps**, and **big data ecosystems**
+- Advancing knowledge in **deep learning**, **MLOps**, and **AI**
 - Building projects that apply AI to solve **real-world problems**
-- Participating in **Kaggle competitions** to sharpen analytical thinking
 
 ---
 

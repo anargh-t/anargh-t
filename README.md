@@ -57,13 +57,6 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white" />
 </p>
 
----
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anarght&show_icons=true&theme=tokyonight" alt="Anargh's GitHub stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anarght&theme=tokyonight" alt="GitHub Streak" width="49%"/>
-</p>
 
 ---
 
